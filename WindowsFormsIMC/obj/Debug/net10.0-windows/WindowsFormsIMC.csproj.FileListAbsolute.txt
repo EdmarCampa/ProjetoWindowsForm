@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\bin\Debug\net10.0-windows\WindowsFormsIMC.exe
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\bin\Debug\net10.0-windows\WindowsFormsIMC.deps.json
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\bin\Debug\net10.0-windows\WindowsFormsIMC.runtimeconfig.json
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\bin\Debug\net10.0-windows\WindowsFormsIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\bin\Debug\net10.0-windows\WindowsFormsIMC.pdb
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.FrmIMC.resources
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\refint\WindowsFormsIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.pdb
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\ref\WindowsFormsIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormsIMC\WindowsFormsIMC\obj\Debug\net10.0-windows\WindowsFormsIMC.Properties.Resources.resources
